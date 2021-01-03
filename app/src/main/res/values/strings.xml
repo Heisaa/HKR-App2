@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HKR-App2</string>
+    <string name="label_intro">About me</string>
+    <string name="label_skills">Skills</string>
+    <string name="label_contact">Contact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profileText">-Information system\n-Programming\n-Fullstack development</string>
+    <string name="introText">I\'m a student in system informatics who loves problem solving and programming.
+        I\'m passionate about open source/free software and have good knowledge about the gnu/linux operating system.
+        Before I started studying system informatics, I learnt web development by my self, primarily by using freecodecamp.</string>
+    <string name="buttonGithub">Visit my Github</string>
+    <string name="skillText">- Java, Kotlin, Android Development\n- C#, dotnet\n- Relational databases, SQL\n- Frontend development, HTML, CSS, JS\n- Modeling, UML, BPMN\n- System analysis, design and implementation</string>
+</resources>
